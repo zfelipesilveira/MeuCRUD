@@ -10,4 +10,4 @@ function create(content) {
 }
 
 // [SIMULATION]
-console.log(create("...asdusdahhdusauhas"));
+console.log(create("...Mudando a mensagem"));
